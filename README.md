@@ -1,4 +1,7 @@
 # React Kanban Board
+cd quicksell![Quicksell Assingment-1](https://github.com/Ashu993586/Quicksell-KanbanBoard/assets/128889803/1c27cdb9-bc6d-4112-821e-933f324c662e)
+
+![Quicksell Assingment -2](https://github.com/Ashu993586/Quicksell-KanbanBoard/assets/128889803/e5172b2b-9f35-42d5-870c-bac7fef2fb3b)
 
 An interactive Kanban board application built with React that interacts with the [QuickSell API](https://api.quicksell.co/v1/internal/frontend-assignment).
 ## Technologies
@@ -17,7 +20,8 @@ An interactive Kanban board application built with React that interacts with the
  
 1. Install dependencies:
     ```shell
-    cd quicksell-KanbanBoard
+    
+-KanbanBoard
     npm install
 2. Starting the development server:
     ```shell
