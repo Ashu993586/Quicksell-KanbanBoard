@@ -14,16 +14,12 @@ An interactive Kanban board application built with React that interacts with the
 - **Interactive UI**: Manage tasks with an interactive interface.
 
 ## Getting Started
-
-1. Clone the repository:
-   ```shell
-   git clone https://github.com/Amiyanshu-web/quicksell-KanbanBoard.git
  
-2. Install dependencies:
+1. Install dependencies:
     ```shell
     cd quicksell-KanbanBoard
     npm install
-3. Starting the development server:
+2. Starting the development server:
     ```shell
         npm start
 ## Usage
